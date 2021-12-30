@@ -12,4 +12,4 @@
   <a href="https://open.spotify.com/user/vbassete?si=75de49fa82364d31" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="https://cataas.com/cat" target="_blank"><img src="https://cataas.com/cat/gif" target="_blank"></a>
+<img src="https://cataas.com/cat/gif" target="_blank">
