@@ -13,3 +13,6 @@
 </div>
 
 <img src="https://cataas.com/cat/gif" target="_blank">
+
+<img title="Python" width ="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" target="_blank"> |<img title="Ubuntu 20.04" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" target="_blank">|<img title="VSCode" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" target="_blank">
+|--|--|--|
