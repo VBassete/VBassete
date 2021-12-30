@@ -1,6 +1,7 @@
 ### Opa!!! Sou o Vinícius Bassete
 
 - 🐍 Amante de Python
+- ☢ Física médica - UNICAMP
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Adoro macarrão
 <!--
