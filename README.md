@@ -3,6 +3,7 @@
 - 🐍 Amante de Python
 - ☢ Física médica - UNICAMP
 - 😄 Pronouns: Ele/Dele
+- 🌱 Vegetariano
 - ⚡ Fun fact: Adoro macarrão
 
 
